@@ -2,7 +2,7 @@
 # backend services, target pools, proxies etc. 
 # This script cpnsolidates information across all the
 # channels and outputs a JSON response that's inline 
-# with the consolidated output users see on GCP UI Console.
+# with the consolidated output users see on GCP Console.
 
 #!/bin/bash
 
