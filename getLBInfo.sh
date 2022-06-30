@@ -1,6 +1,6 @@
 # Load balancers in GCP have a lot of moving parts such as
 # backend services, target pools, proxies etc. 
-# This script cpnsolidates information across all the
+# This script consolidates information across all the
 # channels and outputs a JSON response that's inline 
 # with the consolidated output users see on GCP Console.
 
